@@ -21,6 +21,6 @@ Técnico junior en **redes y sistemas** con base en **desarrollo de aplicaciones
 
 ## 📄 Sobre mí
 
-Durante mi FCT en CloudAPPI desarrollé y documenté APIs RESTful, implementando seguridad con OAuth y API Keys. Actualmente busco mi primera oportunidad como técnico de soporte de red / NOC, donde pueda aportar tanto mi base de networking como mi capacidad de programar pequeñas herramientas de automatización.
+Durante mi FCT en CloudAPPI desarrollé y documenté APIs RESTful, implementando seguridad con OAuth y API Keys. Actualmente busco mi primera oportunidad como técnico de soporte de red / NOC, donde aportar mi base de networking certificada con CCNA y mi capacidad de aprendizaje rápido.
 
 📫 **Contacto:** jarsandres@outlook.es · [CV disponible aquí](CV_Joel_Rios_2026.pdf) 
