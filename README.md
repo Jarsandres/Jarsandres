@@ -17,8 +17,8 @@ Técnico junior en **redes y sistemas** con base en **desarrollo de aplicaciones
 
 ## 🚀 Proyectos destacados
 
-- 🌐 [**laboratorios-ccna**](https://github.com/Jarsandres/laboratorios-ccna) — Topologías y configuraciones Cisco IOS: VLANs, OSPFv2, ACLs, EtherChannel, STP.
-- 🔌 [**tareas-fastapi**](https://github.com/Jarsandres/tareas-fastapi) — API REST construida con FastAPI, incluye autenticación y documentación Swagger.
+- 🌐 **laboratorios-ccna** *(Próximamente)* – Repositorio en construcción donde recopilaré mis topologías de red y configuraciones Cisco IOS (VLANs, OSPFv2, ACLs, EtherChannel y STP) como reflejo práctico de mi certificación CCNA.
+- 💻 **[prioritask](https://github.com/jarsandres/prioritask)** – Gestor de tareas domésticas. Aplicación Full-Stack. Backend desarrollado con **FastAPI (Python)**, base de datos relacional con migraciones automáticas mediante **Alembic**, tests automatizados con **Pytest**, y un frontend dinámico construido en **React (Vite + TypeScript)**.
 
 ## 📄 Sobre mí
 
