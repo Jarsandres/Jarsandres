@@ -65,11 +65,4 @@ Acabo de certificarme como **Cisco CCNA 200-301** y combino la infraestructura d
 > **Gestor de tareas domésticas asistido por IA (Proyecto DAM).**  
 > Aplicación desarrollada en Python para la optimización y asignación inteligente de tareas.
 
----
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Jarsandres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jarsandres&layout=compact&theme=tokyonight&hide=html,shell" />
-</div>
