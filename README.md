@@ -55,7 +55,7 @@ Acabo de certificarme como **Cisco CCNA 200-301** y combino la infraestructura d
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos
 
 #### 🌐 [labs-ccna](https://github.com/Jarsandres/labs-ccna)
 > **Laboratorios y topologías prácticas para la certificación Cisco CCNA 200-301.**  
