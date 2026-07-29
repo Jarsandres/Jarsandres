@@ -6,6 +6,7 @@
   <br />
 
   [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jarsandres)
+  [![](https://img.shields.io/badge/Descargar_CV-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_JoelRios.pdf)
   [![](https://img.shields.io/badge/Ubicaci%C3%B3n-Getafe%2C%20Madrid-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
